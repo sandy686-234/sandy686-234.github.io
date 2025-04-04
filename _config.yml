@@ -1,12 +1,9 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 title: "Huan Zhang"
-email: huan.zhang.2024@mumail.ie
-description: >-
-  Ph.D. candidate in Computer Science at Maynooth University, researching formal verification, FSMs, and robotics.
+description: "Ph.D. candidate at Maynooth University"
 baseurl: ""
 url: "https://sandy686-234.github.io"
-
 markdown: kramdown
 
 collections:
