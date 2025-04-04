@@ -9,39 +9,60 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-- **09/2022-Now Newcastle University, UK (THE Ranking 139)**
-  - MSc in Computer Science (Distinguished, expected)
-  
-- **09/2017-06/2021 Beijing Institute of Technology, Zhuhai, China**
-  - BSc in Robotics Engineering (Final result: 80+)
+## 🎓 Education
 
-Research experience
-======
+- **Ph.D. in Computer Science**  
+  *Maynooth University, Ireland*  
+  *Sep 2023 – Present*  
+  Research focus: Formal verification of autonomous robotic systems  
 
-* **04/2020-06/2021: “ROBO” World Undergraduate Medical Robot Contest (China Division)**
-  * Acubots-Acupuncture Robot Based on Digital Meridian Theory
-  * Responsibilities: Product optimization, robot joint testing, and paper sorting on pulse needle robot intelligence.
-  * Achievements: Obtained 5 project approvals and received invitations for international competitions.
+- **M.Sc. in Computer Science (Distinction)**  
+  *Newcastle University, UK*  
+  *Sep 2022 – Sep 2023*  
 
-* **04/2020-02/2021: Facial Recognition Attendance System (Zhuhai)**
-  * Programmed using Python3+.
-  * Responsibilities: Conducted facial recognition using Face Recognition (an open-source facial recognition database of Python), displayed camera images using Opencv2, and simulated check-in using Excel and facial recognition.
+- **B.Sc. in Robotics Engineering (GPA 80+/100)**  
+  *Beijing Institute of Technology, Zhuhai, China*  
+  *Sep 2017 – Jun 2021*  
 
-* **04/2019-02/2020: The Hack BJ Ai Hackathon Competition (Beijing)**
-  * Conducted de-layering data analysis of Hua Zhu Group to classify customers.
-  * Responsibilities: Data analysis, data extraction, establishment of database models, and 24-hour product development and presentation in a group of 5 members.
-  * Achievements: Highly praised by Google source contributors.
-  
-Skills
-======
-* Computer vision
-* Robotics analysis
-* Formal methods
+---
 
-Publications
-======
-  <ul>{% for post in site.publications %}
+## 🔬 Research Experience
+
+- **“ROBO” World Undergraduate Medical Robot Contest (China Division)**  
+  *Apr 2020 – Jun 2021*  
+  - Project: *Acubots – Acupuncture Robot Based on Digital Meridian Theory*  
+  - Optimized joint design and performed robot testing  
+  - Reviewed literature on pulse needle intelligence  
+  - Resulted in 5 project approvals and international competition invitations
+
+- **Facial Recognition Attendance System (Zhuhai)**  
+  *Apr 2020 – Feb 2021*  
+  - Developed attendance system using Python3+, OpenCV2  
+  - Integrated `face_recognition` library for facial identification  
+  - Simulated check-in workflow using Excel automation  
+
+- **Hack BJ AI Hackathon Competition (Beijing)**  
+  *Apr 2019 – Feb 2020*  
+  - Led customer segmentation analysis for Hua Zhu Group  
+  - Built database models, extracted structured data  
+  - Presented with a 5-person team in a 24-hour hackathon  
+  - Work received praise from Google open-source contributors  
+
+---
+
+## 🛠 Skills
+
+**Languages & Tools:** Python, OpenCV, Bash, Git, MATLAB, LaTeX  
+**Areas of Expertise:** Formal verification, finite state machines, computer vision, robotics systems  
+**Other Tools:** Cyclone, ROS (basic), Excel scripting, Linux CLI  
+
+---
+
+## 📚 Publications
+
+<ul>
+  {% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
+</ul>
+
