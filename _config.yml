@@ -1,4 +1,5 @@
-
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+theme: minimal-mistakes-jekyll
 # Site settings
 title: "Huan Zhang"
 email: huan.zhang.2024@mumail.ie
