@@ -8,53 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!  
-My name is **Huan Zhang (张欢)**, and I am currently a **Ph.D. candidate in Computer Science** at the [Department of Computer Science](https://maynoothuniversity.ie/computer-science), [Maynooth University](https://www.maynoothuniversity.ie/), under the supervision of [Prof. Hao Wu](https://classicwuhao.github.io/).
+Welcome!  
+I'm **Huan Zhang (张欢)**, currently a **Ph.D. candidate in Computer Science** at the [Department of Computer Science](https://maynoothuniversity.ie/computer-science), [Maynooth University](https://www.maynoothuniversity.ie/), advised by [Prof. Hao Wu](https://classicwuhao.github.io/).
 
-Before joining Maynooth, I earned my **M.Sc. in Computer Science** (with Distinction) from the [School of Computing](https://www.ncl.ac.uk/computing/) at **Newcastle University**, UK.  
-I also hold a **B.Sc. in Robotics Engineering** from the [Beijing Institute of Technology, Zhuhai](https://www.bitzh.edu.cn/index/#/), China.
+My research focuses on **formal verification of autonomous robotic systems**, with interests spanning from model checking and finite state machines to real-time scheduling and cyber-physical safety.
+
+Previously, I received my **M.Sc. in Computer Science (Distinction)** from [Newcastle University](https://www.ncl.ac.uk/computing/) and **B.Sc. in Robotics Engineering** from the [Beijing Institute of Technology, Zhuhai](https://www.bitzh.edu.cn/).  
+For detailed academic history and experience, see my [CV page](/cv).
 
 ---
 
 ## 🧠 Research Interests
 
-- Formal verification of autonomous robotic systems  
-- Finite state machine modeling and temporal logic  
-- Cyber-physical systems & real-time safety assurance  
-- Hybrid intelligent systems (AI + verification)  
-- Elevator scheduling algorithms using FSM-based logic  
+- Formal verification of autonomous systems  
+- Finite state machine modeling & scheduling  
+- Real-time safety and temporal logic  
+- Robotics & intelligent systems  
 
 ---
 
 ## 🛠 Technical Skills
 
 - **Languages**: Python, C/C++, MATLAB, Bash  
-- **Frameworks/Tools**: ROS, Cyclone, OpenCV, Git, Jekyll, LATEX  
-- **Verification**: Model checking, CTL/LTL logic, simulation traces  
-- **Data/ML**: Scikit-learn, TensorFlow (basic), pandas, NumPy  
-- **Others**: Markdown, Linux CLI, GitHub Pages  
+- **Frameworks**: ROS, Cyclone, OpenCV, LaTeX  
+- **Methods**: Model checking, LTL/CTL, image recognition  
+- **Tools**: Git, Linux, Jekyll, GitHub Pages  
 
 ---
 
-## 📚 Selected Publications
+📫 I'm always open to academic collaboration or interesting robotics-related projects.  
+Feel free to reach out via [email](mailto:huan.zhang.2024@mumail.ie) or check my [GitHub](https://github.com/sandy686-234).
 
-- **Huan Zhang**, Hao Wu. *Challenges in Autonomous Robotic System Verification*.  
-  *CEUR Workshop Proceedings*, Vol. 3860. [[Link](https://ceur-ws.org/Vol-3860/)]
-
-- Xu Zhang, **Huan Zhang**, Zhuang Huang.  
-  *Improving Semi-Supervised Image Classification by Assigning Different Weights to Correctly and Incorrectly Classified Samples*.  
-  *Applied Sciences*, 2022, 12(23), 11915.
-
-- Zhuang Huang, Zhou Wen Lee, **Huan Zhang**.  
-  *Low-Sample Image Classification using ACGAN and Intrinsic Feature Relation*.  
-  *To be submitted*, 2023.
-
----
-
-## 🏆 Awards
-
-- **Creative Award**, Nasser Bin Hamad International Youth Innovation Program, 2020  
-- **Silver Award**, *Challenge Cup* Zhuhai University Student Entrepreneurship Competition, 2020  
-- **First Prize**, Microcontroller Unit Development Competition, 2019  
-- **First Prize**, 3rd National University Environmental Protection Knowledge Competition, 2018
 
