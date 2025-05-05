@@ -18,9 +18,9 @@ baidu_site_verification  :  # 可选
 author:
   name             : "Huan Zhang"
   avatar           : "images/profile.jpg"
-  bio              : "Ph.D. candidate"
+  bio              : "Ph.D. candidate in Computer Science at Maynooth University"
   location         : "Maynooth, Ireland"
-  employer         : "Maynooth University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DhtAFkwAAAAJ"
   email            : "huan.zhang.2024@mumail.ie"
