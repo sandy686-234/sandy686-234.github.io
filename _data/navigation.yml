@@ -1,22 +1,35 @@
-# main links links
-main:
-  - title: "About Me"
-    url: "/#about-me"
+---
+layout: single
+title: "Welcome"
+author_profile: true
+---
 
-  - title: "News"
-    url: "/#-news"
+## 👋 About Me
+Hi, I'm **Huan Zhang**, a second-year Ph.D. candidate at Maynooth University focusing on **Formal Verification** of autonomous robotic systems.
 
-  - title: "Publications"
-    url: "/#-publications"
+## 📰 News
+- [May 2025] Submitted our paper on elevator control verification to FMICS!
+- [Mar 2024] Presented at CEUR Workshop on Robotic Systems.
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+## 📚 Publications
+- *A Case Study on Verifying Elevator Scheduling Control System in Siemens S7-200 PLC*, FMICS 2025 (Under Review)  
+- *Challenges in Autonomous Robotic System Verification*, CEUR WS Vol. 3860  
+- *Low-Sample Image Classification using ACGAN...*, Applied Science  
+- *Improving Semi-Supervised Image Classification...*, Applied Science Vol. 12(3)
 
-  - title: "Educations"
-    url: "/#-educations"
+## 🏆 Honors and Awards
+- First Class Honours in BSc  
+- MSc with Distinction  
+- Scholarship from Maynooth University
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+## 🎓 Educations
+- Ph.D. in Computer Science, Maynooth University (2023 – Present)  
+- MSc in Computer Science, Newcastle University (2022 – 2023)  
+- BSc in Robotics Engineering, BIT Zhuhai (2017 – 2021)
 
-  - title: "Internships"
-    url: "/#-internships"
+## 🗣 Invited Talks
+- CLOCK 2025 (Poster Presentation)
+
+## 🛠 Internships
+- [Optional: Add your internship experiences here]
+
