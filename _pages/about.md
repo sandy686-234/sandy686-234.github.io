@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm **Huan Zhang (张欢)**, a second-year Ph.D. candidate in Computer Science at [Maynooth University](https://www.maynoothuniversity.ie/), working on **Formal Verification** for autonomous robotic systems. My research focuses on model checking, theorem proving, and hardware verification with tools like NuSMV and Synopsys Formality.
+Hi, I'm **Huan Zhang**, a second-year Ph.D. candidate in Computer Science at [Maynooth University](https://www.maynoothuniversity.ie/), working on **Formal Verification** for Autonomous Robotic Systems. My research focuses on Model Checking, Theorem Proving, and Hardware Verification with tools like NuSMV and Synopsys Formality.
 
 I'm currently integrating **Cyclone4A** with ROS to verify robot behaviors and preparing to present my work at CLOCK 2025.
 
