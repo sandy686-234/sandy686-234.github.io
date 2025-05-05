@@ -1,34 +1,11 @@
----
-layout: single
-title: "Welcome"
-author_profile: true
----
+huan:
+  name        : "Huan Zhang"
+  avatar      : "images/profile.jpg"
+  bio         : "Ph.D. Candidate at Maynooth University"
+  location    : "Ireland"
+  email       : "huan.zhang.2024@mumail.ie"
+  google_scholar: "https://scholar.google.com/citations?user=你的ID"
 
-## 👋 About Me
-Hi, I'm **Huan Zhang**, a second-year Ph.D. candidate at Maynooth University focusing on **Formal Verification** of autonomous robotic systems.
-
-## 📰 News
-- [May 2025] Submitted our paper on elevator control verification to FMICS!
-- [Mar 2024] Presented at CEUR Workshop on Robotic Systems.
-
-## 📚 Publications
-- *A Case Study on Verifying Elevator Scheduling Control System in Siemens S7-200 PLC*, FMICS 2025 (Under Review)  
-- *Challenges in Autonomous Robotic System Verification*, CEUR WS Vol. 3860  
-- *Low-Sample Image Classification using ACGAN...*, Applied Science  
-- *Improving Semi-Supervised Image Classification...*, Applied Science Vol. 12(3)
-
-## 🏆 Honors and Awards
-- First Class Honours in BSc  
-- MSc with Distinction  
-- Scholarship from Maynooth University
-
-## 🎓 Educations
-- Ph.D. in Computer Science, Maynooth University (2023 – Present)  
-- MSc in Computer Science, Newcastle University (2022 – 2023)  
-- BSc in Robotics Engineering, BIT Zhuhai (2017 – 2021)
-
-## 🗣 Invited Talks
-- CLOCK 2025 (Poster Presentation)
 
 ## 🛠 Internships
 - [Optional: Add your internship experiences here]
