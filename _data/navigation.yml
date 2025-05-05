@@ -1,12 +1,22 @@
-huan:
-  name        : "Huan Zhang"
-  avatar      : "images/profile.jpg"
-  bio         : "Ph.D. Candidate at Maynooth University"
-  location    : "Ireland"
-  email       : "huan.zhang.2024@mumail.ie"
-  google_scholar: "https://scholar.google.com/citations?user=你的ID"
+main:
+  - title: "About Me"
+    url: "/#about-me"
 
+  - title: "News"
+    url: "/#news"
 
-## 🛠 Internships
-- [Optional: Add your internship experiences here]
+  - title: "Publications"
+    url: "/#publications"
+
+  - title: "Honors and Awards"
+    url: "/#honors-and-awards"
+
+  - title: "Educations"
+    url: "/#educations"
+
+  - title: "Invited Talks"
+    url: "/#invited-talks"
+
+  - title: "Internships"
+    url: "/#internships"
 
