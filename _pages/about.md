@@ -1,58 +1,73 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Huan Zhang"
+excerpt: "Ph.D. Candidate at Maynooth University"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, I'm **Huan Zhang (张欢)**, a second-year Ph.D. candidate in Computer Science at [Maynooth University](https://www.maynoothuniversity.ie/), working on **Formal Verification** for autonomous robotic systems. My research focuses on model checking, theorem proving, and hardware verification with tools like NuSMV and Synopsys Formality.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm currently integrating **Cyclone4A** with ROS to verify robot behaviors and preparing to present my work at CLOCK 2025.
 
+---
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: 📝 Submitted our FMICS paper on elevator scheduling system verification.
+- *2024.03*: 🎉 Presented at CEUR Workshop on Autonomous Robotics Verification.
+- *2023.12*: 🚀 Integrated model-checking framework with ROS in Cyclone4A.
+
+---
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FMICS 2025</div><img src='images/fmics-paper.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**A Case Study on Verifying Elevator Scheduling Control System in Siemens S7-200 PLC**  
+Huan Zhang, Hao Wu  
+Submitted to FMICS 2025 *(Under Review)*
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[**View Paper**](#)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+</div></div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Challenges in Autonomous Robotic System Verification**, Huan Zhang, Hao Wu, *CEUR Workshop Proceedings Vol. 3860*  
+  [View Paper](#)
+
+- **Low-Sample Image Classification using ACGAN and Intrinsic Feature Relation**, Huang, Z., Lee, Z.W., Huan Zhang, *Applied Science*  
+  [View Paper](#)
+
+- **Improving Semi-Supervised Image Classification by Assigning Different Weights**, Huan Zhang et al., *Applied Sciences Vol. 12(3)*  
+  [View Paper](#)
+
+---
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05* 🔬 Research Excellence Poster Award @ Maynooth CLOCK Symposium
+- *2023.08* 🏅 MSc with Distinction – Newcastle University
+- *2021.07* 🎓 First-Class Honors in Robotics Engineering – BIT Zhuhai
+
+---
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Ph.D. in Computer Science**, Maynooth University, Ireland *(2023–Present)*  
+  *Formal Verification of Autonomous Robotic Systems*
+- **MSc in Computer Science**, Newcastle University, UK *(2022–2023)* – *Distinction*
+- **BSc in Robotics Engineering**, Beijing Institute of Technology, Zhuhai *(2017–2021)* – *First Class Honours*
+
+---
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.03*, "Model Checking in Industrial Robotics", CEUR Workshop  
+- *2023.12*, “Verifying Autonomous Systems in ROS”, Graduate Colloquium  
+
+---
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.07 – 2022.01*, Verification Assistant @ Huawei, Shenzhen  
+- *2020.07 – 2020.12*, Embedded Systems Intern @ Siemens PLC, Zhuhai  
