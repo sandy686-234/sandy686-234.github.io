@@ -24,10 +24,14 @@ I'm currently integrating **Cyclone4A** with ROS to verify robot behaviors and p
 ---
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FMICS 2025</div><img src='images/fmics-paper.png' alt="paper" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">FMICS 2025</div>
+      <img src='images/state_diagram.png' alt="Elevator Scheduling System Diagram" width="100%" style="max-height: 220px;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 **A Case Study on Verifying Elevator Scheduling Control System in Siemens S7-200 PLC**  
 Huan Zhang, Hao Wu  
 Submitted to FMICS 2025 *(Under Review)*
