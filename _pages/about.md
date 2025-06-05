@@ -12,7 +12,7 @@ redirect_from:
 
 Hi, I'm **Huan Zhang**, a second-year Ph.D. candidate in Computer Science at [Maynooth University](https://www.maynoothuniversity.ie/), working on **Formal Verification** for Autonomous Robotic Systems. My research focuses on Model Checking, Theorem Proving, and Hardware Verification with tools like NuSMV and Synopsys Formality.
 
-I'm currently integrating **Cyclone4A** with ROS to verify robot behaviors and preparing to present my work at CLOCK 2025.
+I'm currently integrating **Cyclone4A** with ROS to verify robot behaviours and preparing to present my work at CLOCK 2025.
 
 ---
 
@@ -32,9 +32,9 @@ I'm currently integrating **Cyclone4A** with ROS to verify robot behaviors and p
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**A Case Study on Verifying Elevator Scheduling Control System in Siemens S7-200 PLC**  
+**A Case Study on Verifying Elevator Scheduling Control System**  
 Huan Zhang, Hao Wu  
-Submitted to FMICS 2025 *(Under Review)*
+Submitted to iFM 2025 *(Under Review)*
 
 [**View Paper**](#)
 
@@ -51,7 +51,7 @@ Submitted to FMICS 2025 *(Under Review)*
 
 ---
 
-# 🎖 Honors and Awards
+# 🎖 Honours and Awards
 - *2024.05* 🔬 Research Excellence Poster Award @ Maynooth CLOCK Symposium
 - *2023.08* 🏅 MSc with Distinction – Newcastle University
 - *2021.07* 🎓 First-Class Honors in Robotics Engineering – BIT Zhuhai
