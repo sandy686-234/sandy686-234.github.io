@@ -17,7 +17,7 @@ I'm currently integrating **Cyclone4A** with ROS to verify robot behaviours and 
 ---
 
 # 🔥 News
-- *2025.05*: 📝 Submitted our FMICS paper on elevator scheduling system verification.
+- *2025.05*: 📝 Submitted our iFM paper on elevator scheduling system verification.
 - *2024.03*: 🎉 Presented at CEUR Workshop on Autonomous Robotics Verification.
 - *2023.12*: 🚀 Integrated model-checking framework with ROS in Cyclone4A.
 
@@ -27,7 +27,7 @@ I'm currently integrating **Cyclone4A** with ROS to verify robot behaviours and 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">FMICS 2025</div>
+      <div class="badge">iFM 2025</div>
       <img src='images/state_diagram.png' alt="Elevator Scheduling System Diagram" width="100%" style="max-height: 220px;">
     </div>
   </div>
