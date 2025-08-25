@@ -17,26 +17,13 @@ I'm currently integrating **Cyclone4A** with ROS to verify robot behaviours and 
 ---
 
 # 🔥 News
-- *2025.05*: 📝 Submitted our iFM paper on elevator scheduling system verification.
-- *2024.03*: 🎉 Presented at CEUR Workshop on Autonomous Robotics Verification.
-- *2023.12*: 🚀 Integrated model-checking framework with ROS in Cyclone4A.
+- *2025.09*: 🏔️ Poster presentation at Swiss CLOCK Summit (upcoming).
+- *2025.08*: ☀️ Attended VeTSS Summer School.
+- *2025.07*: 🎓 Attended OPLSS (Oregon Programming Languages Summer School).
+- *2023.12*: 🚀 Integrated model-checking framework with ROS in VeriROS.
+
 
 ---
-
-# 📝 Publications 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">iFM 2025</div>
-      <img src='images/state_diagram.png' alt="Elevator Scheduling System Diagram" width="100%" style="max-height: 220px;">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-**A Case Study on Verifying Elevator Scheduling Control System**  
-Huan Zhang, Hao Wu  
-Submitted to iFM 2025 *(Under Review)*
-
-[**View Paper**](#)
 
 </div></div>
 
