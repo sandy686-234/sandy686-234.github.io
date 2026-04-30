@@ -12,53 +12,44 @@ redirect_from:
 
 Hi, I'm **Huan Zhang**, a second-year Ph.D. candidate in Computer Science at [Maynooth University](https://www.maynoothuniversity.ie/), working on **Formal Verification** for Autonomous Robotic Systems. My research focuses on Model Checking, Theorem Proving, and Hardware Verification with tools like NuSMV and Synopsys Formality.
 
-I'm currently integrating **Cyclone4A** with ROS to verify robot behaviours and preparing to present my work at CLOCK 2025.
+I'm currently integrating **VeriROS** with ROS to verify robot behaviours and preparing to present my work at CLOCK 2025.
 
 ---
 
-# 🔥 News
-- *2025.09*: 🏔️ Poster presentation at Swiss CLOCK Summit (upcoming).
-- *2025.08*: ☀️ Attended VeTSS Summer School.
-- *2025.07*: 🎓 Attended OPLSS (Oregon Programming Languages Summer School).
-- *2023.12*: 🚀 Integrated model-checking framework with ROS in VeriROS.
+# News
+- *2026.04*:  Paper "Verifying an Elevator Scheduling Control System" accepted at ITEQS@ICST 2026.
+- *2026.01*:  Paper "VeriROS: Verifiable ROS2 Navigation Execution Framework" accepted at FormaliSE 2026.
+- *2025.09*:  Poster presentation at Swiss CLOCK Summit.
+- *2025.08*:  Attended VeTSS (Verification Teaching Summer School).
+- *2025.07*:  Attended OPLSS (Oregon Programming Languages Summer School).
+- *2023.12*:  Integrated model-checking framework with ROS in VeriROS.
 
 
----
+# Publications
+## Peer-Reviewed Conference Papers & Workshops
 
-</div></div>
+Verifying an Elevator Scheduling Control System
+Huan Zhang et al.
+ITEQS@ICST 2026 (accepted)
 
-- **Challenges in Autonomous Robotic System Verification**, Huan Zhang, Hao Wu, *CEUR Workshop Proceedings Vol. 3860*  
-  [View Paper](#)
+VeriROS: Verifiable ROS2 Navigation Execution Framework
+Huan Zhang et al.
+FormaliSE 2026 (accepted)(https://2026.formalise.org/?)
+Challenges in Autonomous Robotic System Verification
+Huan Zhang, Hao Wu
+CEUR Workshop Proceedings, Vol. 3860
+[View Paper]([https://classicwuhao.github.io/pdf/ifm24.pdf](https://ceur-ws.org/Vol-3860/paper_7.pdf))
+Improving Semi-Supervised Image Classification by Assigning Different Weights
+Huan Zhang et al.
+Applied Sciences, Vol. 12(3)
+[View Paper] [([https://www.mdpi.com/2076-3417/12/23/11915)](https://www.mdpi.com/2076-3417/12/23/11915)
 
-- **Low-Sample Image Classification using ACGAN and Intrinsic Feature Relation**, Huang, Z., Lee, Z.W., Huan Zhang, *Applied Science*  
-  [View Paper](#)
 
-- **Improving Semi-Supervised Image Classification by Assigning Different Weights**, Huan Zhang et al., *Applied Sciences Vol. 12(3)*  
-  [View Paper](#)
-
----
-
-# 🎖 Honours and Awards
-- *2024.05* 🔬 Research Excellence Poster Award @ Maynooth CLOCK Symposium
-- *2023.08* 🏅 MSc with Distinction – Newcastle University
-- *2021.07* 🎓 First-Class Honors in Robotics Engineering – BIT Zhuhai
-
----
-
-# 📖 Educations
+# Educations
 - **Ph.D. in Computer Science**, Maynooth University, Ireland *(2023–Present)*  
   *Formal Verification of Autonomous Robotic Systems*
 - **MSc in Computer Science**, Newcastle University, UK *(2022–2023)* – *Distinction*
 - **BSc in Robotics Engineering**, Beijing Institute of Technology, Zhuhai *(2017–2021)* – *First Class Honours*
 
 ---
-
-# 💬 Invited Talks
-- *2024.03*, "Model Checking in Industrial Robotics", CEUR Workshop  
-- *2023.12*, “Verifying Autonomous Systems in ROS”, Graduate Colloquium  
-
----
-
-# 💻 Internships
-- *2021.07 – 2022.01*, Verification Assistant @ Huawei, Shenzhen  
-- *2020.07 – 2020.12*, Embedded Systems Intern @ Siemens PLC, Zhuhai  
+ 
