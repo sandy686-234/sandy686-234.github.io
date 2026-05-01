@@ -28,21 +28,21 @@ I'm currently integrating **VeriROS** with ROS to verify robot behaviours and pr
 # Publications
 ## Peer-Reviewed Conference Papers & Workshops
 
-Verifying an Elevator Scheduling Control System
+- **Verifying an Elevator Scheduling Control System
 Huan Zhang et al.
 ITEQS@ICST 2026 (accepted)
 
-VeriROS: Verifiable ROS2 Navigation Execution Framework
+- **VeriROS: Verifiable ROS2 Navigation Execution Framework
 Huan Zhang et al.
 FormaliSE 2026 (accepted)(https://2026.formalise.org/?)
-Challenges in Autonomous Robotic System Verification
+- **Challenges in Autonomous Robotic System Verification
 Huan Zhang, Hao Wu
 CEUR Workshop Proceedings, Vol. 3860
-[View Paper]([https://classicwuhao.github.io/pdf/ifm24.pdf](https://ceur-ws.org/Vol-3860/paper_7.pdf))
-Improving Semi-Supervised Image Classification by Assigning Different Weights
+[View Paper]((https://ceur-ws.org/Vol-3860/paper_7.pdf))
+- **Improving Semi-Supervised Image Classification by Assigning Different Weights
 Huan Zhang et al.
 Applied Sciences, Vol. 12(3)
-[View Paper] [([https://www.mdpi.com/2076-3417/12/23/11915)](https://www.mdpi.com/2076-3417/12/23/11915)
+[View Paper] [(https://www.mdpi.com/2076-3417/12/23/11915)
 
 
 # Educations
