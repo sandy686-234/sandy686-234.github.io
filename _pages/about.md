@@ -10,9 +10,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm **Huan Zhang**, a second-year Ph.D. candidate in Computer Science at [Maynooth University](https://www.maynoothuniversity.ie/), working on **Formal Verification** for Autonomous Robotic Systems. My research focuses on Model Checking, Theorem Proving, and Hardware Verification with tools like NuSMV and Synopsys Formality.
+I'm **Huan Zhang**, a Ph.D. candidate in Computer Science at 
+[Maynooth University](https://www.maynoothuniversity.ie/), specializing in 
+formal verification for autonomous robotic systems. My research addresses a 
+critical gap in autonomous system deployment: **formal verification is typically 
+offline, but deployed systems evolve**.
 
-I'm currently integrating **VeriROS** with ROS to verify robot behaviours.
+I develop **VeriROS**, a framework that brings offline verification guarantees 
+into runtime execution using machine-checkable certificates and SMT-based 
+reasoning. This enables autonomous systems to remain provably safe even after 
+code or configuration changes—critical for real-world robot deployment.
+
+**Research focus:** Bridging formal verification (model checking, SMT solving) 
+with practical ROS2 execution through runtime monitoring and dynamic response 
+policies.
 
 ---
 
